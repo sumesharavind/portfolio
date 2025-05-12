@@ -53,7 +53,6 @@ const Header = () => (
         </ul>
       </nav>
       <div className="image">
-        {/* <img src="/images/profile.png" alt="Profile" width="250px" height="250px" /> */}
       </div>
       <div className="header-text ">
         <h1 className="blur">
